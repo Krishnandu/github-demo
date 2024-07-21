@@ -1,0 +1,1 @@
+This has core software component.
