@@ -1,2 +1,3 @@
 This contains feature related to gathering data from sensor.
 Adding some bug fix.
+Some changes done locally.
